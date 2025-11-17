@@ -7,7 +7,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 |----|------|------------|--------------|
 | 1 |  |  |  |
 | 2 |  |  |  |
-| 3 |  |  |  |
+| 3 | Abdulrahman Alzaabi | Strategy and Digitization | Digital and AI Lead |
 | 4 |  |  |  |
 | 5 |  |  |  |
 | 6 |  |  |  |
