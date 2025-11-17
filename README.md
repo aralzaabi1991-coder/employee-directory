@@ -12,7 +12,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |
-| 8 |  |  |  |
+| 8 | Zubair | Plant Operation App | Specialist |
 | 9 |  |  |  |
 | 10 |  |  |  |
 | 11 |  |  |  |
