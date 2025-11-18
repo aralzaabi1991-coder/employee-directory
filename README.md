@@ -9,6 +9,8 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 2 | Mohammed Alkhatri | Strategy & Digitization | Digital & AI Lead |
 | 3 |  |  |  |
 | 4 |  |  |  |
+| 5 |  |  |  |
+| 6 | Raheel Arif | Cyber Security | OT Assurance |
 | 5 | Khaled Aldhaheri | PCS | operator |
 | 6 |  |  |  |
 | 7 |  |  |  |
